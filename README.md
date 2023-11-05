@@ -62,7 +62,8 @@ Você é bem-vindo para contribuir para este projeto. Se você deseja fazer melh
 
 ## Licença
 Este projeto é licenciado sob a [Licença MIT](LICENSE) - veja o arquivo `LICENSE` para obter detalhes.
-Desenvolvido por [Luis Felipe Cavalini (MaxForce.dev)](https://github.com/maxforcedev) - Sinta-se à vontade para entrar em contato!
+Desenvolvido por [Luis Felipe Cavalini (MaxForce.dev)](https://github.com/maxforcedev)
+Sinta-se à vontade para entrar em contato!
 
 <p align="left">
 <div dir="auto"> 
