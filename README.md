@@ -5,7 +5,10 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/maxforcedev/Gerador-de-Senhas)
 
 ## Descrição
-O **Gerador de Senhas - MaxForce.dev** é uma aplicação Python que permite aos usuários gerar senhas fortes com base em suas preferências. Este programa oferece flexibilidade ao criar senhas que são fáceis de lembrar, mas seguras o suficiente para proteger suas informações.
+O **Gerador de Senhas - MaxForce.dev** é uma aplicação Python que permite aos usuários gerar senhas fortes com base em suas preferências. Este programa oferece flexibilidade ao criar senhas que são fáceis de lembrar, mas seguras o suficiente para proteger suas informações. O algoritmo de geração de senhas é altamente eficiente, sendo capaz de criar mais de 1000 senhas em apenas um segundo.
+
+Este projeto foi inspirado por uma aula de Segurança da Informação com Python, refletindo o compromisso com boas práticas de segurança no mundo digital. A aplicação visa fornecer uma ferramenta útil para a geração de senhas seguras, incentivando a adoção de práticas de segurança mais fortes na era digital.
+
 
 ## Tabela de Conteúdo
 - [Capturas de Tela](#capturas-de-tela)
